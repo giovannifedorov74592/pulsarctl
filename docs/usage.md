@@ -2,3 +2,4 @@
 
 Notes and usage details for pulsarctl.
 - link the usage section
+- link the usage section
